@@ -1,0 +1,7 @@
+Nous avons défini une expression régulière qui exprime une chaine 
+de caractère commençant par un caractère alphabétique suivi de n'importe
+quel caract alphanumerique .
+A chaque fois qu'o retrouve une chaine qui verifie notre exp reg 
+on l'affiche entre <> . 
+les autres caractères ne sont pas traités et donc on les retrouve 
+dans l'output .

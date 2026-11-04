@@ -1,0 +1,7 @@
+nano file.l
+
+lex file.l
+
+gcc lex.yy.c -lfl -o program
+
+./program
